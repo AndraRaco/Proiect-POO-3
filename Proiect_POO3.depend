@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558260357 source:d:\fmi\proiect_poo3\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<typeinfo>
+
+1558260462 source:d:\fmi\132_racovita_andra_georgiana_poo3\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<typeinfo>
+
