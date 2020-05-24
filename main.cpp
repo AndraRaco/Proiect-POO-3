@@ -116,7 +116,6 @@ Pret<Type> Pret<Type>::operator+ (const Pret<Type> &P)
     return Suma;
 }
 
-///Trebuie sa pun exceptii si la constructori?
 
 template <class Type>
 double Pret<Type>::get_km()
